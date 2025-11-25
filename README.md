@@ -15,7 +15,7 @@ _API Url: <code>https://web.spaggiari.eu/rest/</code>_
 
 ## Request Header
 - User-Agent: <code>CVVS/std/4.1.7 Android/10</code>
-- Z-Dev-Apikey: <code>Tg1NWEwNGIgIC0K</code>
+- Z-Dev-ApiKey: <code>Tg1NWEwNGIgIC0K</code>
 - ContentsDiary-Type: <code>application/json</code>
 
 _Warning: without these headers, the request will fail._
